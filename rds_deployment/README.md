@@ -11,6 +11,19 @@ During data transformation with dbt, these business models and isights were capt
 -- One Fact Table
 -- Two snapshots to capture SCD2 applied on both Customer and Employee Tables
 
+## Postgres-AWS(RDS) Connection image
+![alt text](image.png)
+
+## AWS-RDS image
+![alt text](image-3.png)
+
+## ECR container with Docker Image
+![alt text](image-2.png)
+
+## dbt docs lineage image
+![alt text](image-4.png)
+
+
 ## Tech Stack
 -- Amazon RDS (PostgreSQL): Hosted source and target database
 
