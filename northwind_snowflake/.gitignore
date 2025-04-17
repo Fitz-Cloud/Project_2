@@ -1,0 +1,6 @@
+dbdata
+.idea/
+files/
+.env 
+.user.yml
+buildspec.yml

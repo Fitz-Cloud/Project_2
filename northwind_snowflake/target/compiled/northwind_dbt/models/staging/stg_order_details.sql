@@ -1,0 +1,1 @@
+select * from PROJECT_2.PUBLIC.order_details

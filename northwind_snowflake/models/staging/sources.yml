@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: public
+    schema: PUBLIC               
+    database: PROJECT_2         
+    tables:
+      - name: customers
+      - name: orders
+      - name: order_details
+      - name: products
+      - name: employees
+      - name: suppliers
+      - name: categories
+      - name: shippers

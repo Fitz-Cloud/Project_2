@@ -1,0 +1,13 @@
+name: 'northwind_dbt'
+version: '1.0'
+profile: 'northwind_profile'
+
+models:
+  northwind_dbt:
+    staging:
+      materialized: view
+    marts:
+      core:
+        materialized: table
+      bi:
+        materialized: table
