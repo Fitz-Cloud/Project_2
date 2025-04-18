@@ -11,6 +11,9 @@ During data transformation with dbt, these business models and isights were capt
 -- One Fact Table
 -- Two snapshots to capture SCD2 applied on both Customer and Employee Tables
 
+## Full ELT Cloud Connection
+![alt text](image-6.png)
+
 ## Postgres-AWS(RDS) Connection image
 ![alt text](image.png)
 

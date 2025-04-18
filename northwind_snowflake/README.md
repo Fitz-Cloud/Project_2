@@ -11,6 +11,10 @@ During data transformation with dbt, these business models and isights were capt
 -- One Fact Table
 -- Two snapshots to capture SCD2 applied on both Customer and Employee Tables
 
+
+## Full ELT connection
+![alt text](image-4.png)
+
 ## dbt docs lineage image
 ![dbt docs](image.png)
 
