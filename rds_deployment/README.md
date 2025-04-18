@@ -27,7 +27,7 @@ During data transformation with dbt, these business models and isights were capt
 ![alt text](image-4.png)
 
 ## Tableau Performance Dashboard
-![alt text](image-5.png)
+![alt text](image-7.png)
 
 ## AWS RDS image
 ![alt text](image-3.png)
