@@ -23,6 +23,10 @@ During data transformation with dbt, these business models and isights were capt
 ## dbt docs lineage image
 ![alt text](image-4.png)
 
+## Tableau Performance Dashboard
+![alt text](image-3.png)
+
+
 
 ## Tech Stack
 -- Amazon RDS (PostgreSQL): Hosted source and target database
