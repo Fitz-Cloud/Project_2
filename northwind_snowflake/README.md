@@ -24,6 +24,9 @@ During data transformation with dbt, these business models and isights were capt
 ## Airbyte Connection image
 ![alt text](image-2.png)
 
+## Tableau Performance Dashboard
+![alt text](image-5.png)
+
 ## Tech Stack
 
 -- PostgreSQL: Intermediate staging database
